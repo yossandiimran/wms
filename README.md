@@ -4,7 +4,7 @@
 - Aplikasi pengelolaan Gudang
 
 # How to Use 
-- composer install
+- composer install -> jika error (composer update)
 - Konfigurasi .env
 - php artisan key:generate
 - php artisan migrate:refresh
